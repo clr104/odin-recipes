@@ -1,0 +1,16 @@
+
+body{
+    background-color: pink;
+}
+
+h1{
+    font: Helvetica;
+    font-size: 64px;
+    color: white;
+    text-align: center;
+    font-weight: 800;
+}
+
+a{
+    text-align: center;
+}
